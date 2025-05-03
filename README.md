@@ -1,6 +1,9 @@
 # DeepFake_video_detection-Using-hybrid-model
 
 A Flask-based web app that detects deepfake videos using **spatial-temporal hybrid models** (EfficientNet/MobileNet + LSTM/GRU).
+**Project Demo Video**
+[![project_gif](https://github.com/user-attachments/assets/36575600-f18b-448e-9ff9-cbc89dc4e016)]
+
 
 ## 🔥 Key Features
 - **Hybrid Architecture**: Combines CNNs (EfficientNet, MobileNetV3, ResNeXt) + RNNs (LSTM/GRU) for frame + temporal analysis.
@@ -28,6 +31,7 @@ seaborn==0.13.2
 
 🛠️ Installation
 **1. Clone the Repository**
+https://github.com/Narendra7211/DeepFake_video_detection-Using-hybrid-model.git
 
 **2.Download the requirements mentioned above**
 
@@ -65,11 +69,11 @@ For CPU environment:
 For kaggle GPU(T4) environment:
 ![image](https://github.com/user-attachments/assets/a0954a2a-622f-4a3e-8b2e-3fddf80ef8db)
 
-Dataset: FaceForensics++, Celeb-DF
-Libraries: PyTorch, Flask, OpenCV
+**Dataset:** FaceForensics++, Celeb-DF
+**Libraries:** PyTorch, Flask, OpenCV
 
 
-Contact Details in profile
+**Contact Details in profile**
 
 
 
