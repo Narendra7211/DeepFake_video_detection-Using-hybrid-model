@@ -1,8 +1,9 @@
 # DeepFake_video_detection-Using-hybrid-model
 
 A Flask-based web app that detects deepfake videos using **spatial-temporal hybrid models** (EfficientNet/MobileNet + LSTM/GRU).
-**Project Demo Video**
-[![project_gif](https://github.com/user-attachments/assets/36575600-f18b-448e-9ff9-cbc89dc4e016)]
+
+## **Project Demo Video**  
+![project_gif](https://github.com/user-attachments/assets/36575600-f18b-448e-9ff9-cbc89dc4e016) 
 
 
 ## 🔥 Key Features
