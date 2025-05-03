@@ -64,17 +64,17 @@ DeepFake_video_detection-Using-hybrid-model/
 📊 Confidence scores
 
 Results:
-Mobilenet+GRU:88.61%(Accuracy)
-For CPU environment:
-![image](https://github.com/user-attachments/assets/c37d0b10-c702-4434-80d0-5a90a471e479)
-For kaggle GPU(T4) environment:
-![image](https://github.com/user-attachments/assets/a0954a2a-622f-4a3e-8b2e-3fddf80ef8db)
+- **Mobilenet+GRU:88.61%(Accuracy)** <br>
+**For CPU environment:**
+![image](https://github.com/user-attachments/assets/c37d0b10-c702-4434-80d0-5a90a471e479)<br>
+**For kaggle GPU(T4) environment:**
+![image](https://github.com/user-attachments/assets/a0954a2a-622f-4a3e-8b2e-3fddf80ef8db)<br>
 
-**Dataset:** FaceForensics++, Celeb-DF
-**Libraries:** PyTorch, Flask, OpenCV
+**Dataset:** FaceForensics++, Celeb-DF <br>
+**Libraries:** PyTorch, Flask, OpenCV <br>
 
 
-**Contact Details in profile**
+**Contact Details are in the profile page**
 
 
 
