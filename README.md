@@ -27,8 +27,8 @@ seaborn==0.13.2
 
 
 **Models are hosted on Google Drive** (too large for GitHub LFS):  
-📦 [Download Models ZIP](https://drive.google.com/drive/folders/1c39gN4YYrjMWzhi3Xf6ng-bn1tbs3vaz?usp=drive_link) 
-- create a folder Named models inside app folder there store the downloded models with same names as in the drive.
+📦 [Download Models ZIP](https://drive.google.com/drive/folders/1c39gN4YYrjMWzhi3Xf6ng-bn1tbs3vaz?usp=sharing) 
+- Create a folder named models inside the app folder, and store the downloaded models with the same names as on the drive.
 
 🛠️ Installation
 **1. Clone the Repository**
